@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("I will give u a GHORAR DIM");
+            Console.WriteLine("I will give u a Murgir Dim");
         }
     }
 }
